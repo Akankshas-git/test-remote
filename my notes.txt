@@ -1,0 +1,25 @@
+What is Internet and How It Works Globally
+The Internet is a global network that interconnects millions of private, public,
+academic, business, and government networks worldwide. It uses the standard
+TCP/IP protocol suite to allow communication between different systems and
+networks.
+It enables users to send and receive information in the form of data packets using
+interconnected network devices and infrastructure.
+Key Characteristics:
+• The Internet is decentralized and made up of numerous independent
+networks.
+• It relies on a system of routers, switches, and protocols to transmit data.
+• Every device connected to the Internet is identified by a unique IP address.
+Working Overview:
+1. Devices connect to an Internet Service Provider (ISP).
+2. Data packets are created and addressed with IP information.
+3. Packets travel through multiple routers and switches.
+4. Data can cross national boundaries via undersea optical fiber cables.
+5. The target device receives and reconstructs the packet stream.
+Submarine Optical Fiber Cables
+Submarine cables are fiber optic cables laid beneath the sea to carry
+telecommunication signals across continents. These are the backbone of
+international Internet traffic.
+Key Points:
+• Made up of bundled glass fibers that transmit light pulses.
+• Typically owned and maintained by telecom companies or global consortiums.
